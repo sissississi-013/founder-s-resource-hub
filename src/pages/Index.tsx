@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 import { resources, ResourceCategory } from "@/data/resources";
 import ResourceCard from "@/components/ResourceCard";
 import CategoryFilter from "@/components/CategoryFilter";
+import FiaChatbot from "@/components/FiaChatbot";
 
 const Index = () => {
   const [activeCategory, setActiveCategory] = useState<ResourceCategory | "All">("All");
