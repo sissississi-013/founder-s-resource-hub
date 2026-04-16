@@ -102,6 +102,8 @@ const Index = () => {
           Built with 💖 for female founders everywhere
         </p>
       </footer>
+
+      <FiaChatbot />
     </div>
   );
 };
