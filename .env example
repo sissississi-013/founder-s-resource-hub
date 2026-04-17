@@ -1,0 +1,3 @@
+VITE_SUPABASE_PROJECT_ID="yourprojectid"
+VITE_SUPABASE_PUBLISHABLE_KEY="yourapikey"
+VITE_SUPABASE_URL="https://yoururl"
